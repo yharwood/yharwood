@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuki</h1>
-<h3 align="center">A passionate frontend developer from Japan/U.K.</h3>
+<h3 align="center">A passionate Product Manager from Japan/U.K.</h3>
 
 - 📫 How to reach me **yukiharwood@outlook.com**
 
